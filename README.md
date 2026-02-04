@@ -51,8 +51,6 @@ Atm_Project
 └── Class_01.java
 
 
-> `bin/`, `.settings/`, `.classpath`, `.project` gibi IDE dosyaları GitHub'a eklenmemiştir.
-
 ---
 
 ## Nasıl Çalıştırılır?
